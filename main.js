@@ -26,6 +26,7 @@ const daphO = [
   "https://cdn.betterttv.net/emote/6038961b7c74605395f3485f/3x", //daphLeaking
   "https://cdn.betterttv.net/emote/603a2fec7c74605395f353d1/3x", //daphPop
   "https://cdn.betterttv.net/emote/603b00f47c74605395f35ab8/3x", //daphJR
+  "https://cdn.betterttv.net/emote/604c3dc1306b602acc59be9f/3x", //daphCopium
 ];
 
 function dvd(option) {
