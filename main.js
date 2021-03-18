@@ -36,7 +36,7 @@ function dvd(option) {
     horizontal: true,
     vertical: true,
     speed: 100,
-    bumpEdge: function () {},
+    bumpEdge: function () { },
   };
 
   const settings = {
@@ -117,9 +117,8 @@ function dvd(option) {
     move.down();
   }
 }
-
 dvd({
-  speed: 300,
+  speed: 100 * (new URL(window.location.href).searchParams.get("speed") || 3),
   bumpEdge: function () {
     document.querySelector(".daphO").src =
       daphO[Math.floor(Math.random() * daphO.length)];
