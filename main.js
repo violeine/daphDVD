@@ -1,4 +1,3 @@
-// import "web-animations-js/web-animations-next-lite.min";
 const daphO = [
   "https://static-cdn.jtvnw.net/emoticons/v1/302071866/3.0", //daphBlind
   "https://static-cdn.jtvnw.net/emoticons/v1/304381627/3.0", //daphLurk
@@ -28,6 +27,8 @@ const daphO = [
   "https://cdn.betterttv.net/emote/603b00f47c74605395f35ab8/3x", //daphJR
   "https://cdn.betterttv.net/emote/604c3dc1306b602acc59be9f/3x", //daphCopium
   "https://cdn.betterttv.net/emote/60547c32306b602acc59fc8b/3x", //daphThief
+  "https://cdn.betterttv.net/emote/60571d5f61e7e44b5aa4e9f9/3x", //daphJones
+  
 ];
 
 function dvd(option) {
