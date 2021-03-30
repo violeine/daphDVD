@@ -36,6 +36,8 @@ const daphO = [
   "https://static-cdn.jtvnw.net/emoticons/v1/306762237/3.0", //daphHead
   "https://static-cdn.jtvnw.net/emoticons/v1/306762274/3.0", //daphSip
   "https://static-cdn.jtvnw.net/emoticons/v1/306762267/3.0", //daphStealth
+  "https://cdn.betterttv.net/emote/6062b5c6a407570b72f27bcd/3x", //daphItaly
+  "https://cdn.betterttv.net/emote/6062b5d6a407570b72f27bcf/3x", //daphShh
 ];
 
 function dvd(option) {
