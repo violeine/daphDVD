@@ -38,6 +38,20 @@ const daphO = [
   "https://static-cdn.jtvnw.net/emoticons/v1/306762267/3.0", //daphStealth
   "https://cdn.betterttv.net/emote/6062b5c6a407570b72f27bcd/3x", //daphItaly
   "https://cdn.betterttv.net/emote/6062b5d6a407570b72f27bcf/3x", //daphShh
+  "https://cdn.betterttv.net/emote/6081ab4a39b5010444d04317/3x", // DUSSERS
+  "https://cdn.betterttv.net/emote/6082772039b5010444d04993/3x", //daphFlower
+  "https://cdn.betterttv.net/emote/608e93d039b5010444d0a354/3x", //daphNun
+  "https://cdn.betterttv.net/emote/6092f2a339b5010444d0c391/3x", //daphCD
+  "https://static-cdn.jtvnw.net/emoticons/v1/307608966/3.0", //daphLook
+  "https://cdn.betterttv.net/emote/605eaa147493072efdeb5576/3x", //daphLewd
+  "https://cdn.betterttv.net/emote/6097ad8939b5010444d0e4c2/3x", //Dorpa
+  "https://cdn.betterttv.net/emote/6097b00139b5010444d0e4d0/3x", //dorpaSpin
+  "https://cdn.betterttv.net/emote/60a35b7567644f1d67e8849f/3x", //dorpaLookingAtYou
+  "https://static-cdn.jtvnw.net/emoticons/v1/307608962/3.0", // daphPain
+  "https://cdn.betterttv.net/emote/609a522639b5010444d0f799/3x", //daphGroove
+  "https://cdn.betterttv.net/emote/60a3b29d67644f1d67e8867d/3x", //daphBowl
+  "https://cdn.betterttv.net/emote/60a61a3067644f1d67e89934/3x", //DAPHIES
+  "https://cdn.betterttv.net/emote/60a6393c67644f1d67e899ed/3x" //daphShurg
 ];
 
 function dvd(option) {
