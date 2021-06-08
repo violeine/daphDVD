@@ -1,4 +1,5 @@
 const daphO = [
+  "https://cdn.betterttv.net/emote/60bed67ff8b3f62601c3a7c8/3x", //daphFire
   "https://static-cdn.jtvnw.net/emoticons/v1/302071866/3.0", //daphBlind
   "https://static-cdn.jtvnw.net/emoticons/v1/304381627/3.0", //daphLurk
   "https://static-cdn.jtvnw.net/emoticons/v1/301171649/3.0", //daphO
@@ -51,7 +52,7 @@ const daphO = [
   "https://cdn.betterttv.net/emote/609a522639b5010444d0f799/3x", //daphGroove
   "https://cdn.betterttv.net/emote/60a3b29d67644f1d67e8867d/3x", //daphBowl
   "https://cdn.betterttv.net/emote/60a61a3067644f1d67e89934/3x", //DAPHIES
-  "https://cdn.betterttv.net/emote/60a6393c67644f1d67e899ed/3x" //daphShurg
+  "https://cdn.betterttv.net/emote/60a6393c67644f1d67e899ed/3x",//daphShurg
 ];
 
 function dvd(option) {
