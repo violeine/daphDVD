@@ -1,4 +1,5 @@
 const daphO = [
+  "https://cdn.betterttv.net/emote/60e712208ed8b373e421f86e/3x",
   "https://cdn.betterttv.net/emote/60c9a24ef8b3f62601c3e876/3x", //daphSus
   "https://cdn.betterttv.net/emote/60bed67ff8b3f62601c3a7c8/3x", //daphFire
   "https://static-cdn.jtvnw.net/emoticons/v1/302071866/3.0", //daphBlind
