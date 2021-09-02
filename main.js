@@ -139,7 +139,7 @@ function dvd(option) {
       ).onfinish = function () {
         settings.bumpEdge();
         move.right();
-      };as
+      };
     },
   };
 
