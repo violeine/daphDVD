@@ -1,4 +1,6 @@
 const daphO = [
+  "https://cdn.betterttv.net/emote/61f9ec0f06fd6a9f5be309b7/3x", //daphCatch
+  "https://cdn.betterttv.net/emote/61fb86b406fd6a9f5be32e75/3x", //daphZen
   "https://cdn.betterttv.net/emote/61bffa9a002cdeedc2200cf0/3x", //daphYUMP
   "https://cdn.betterttv.net/emote/61b8e480002cdeedc21f6cca/3x", //SnowTime
   "https://cdn.betterttv.net/emote/61a73ec4002cdeedc21daca7/3x", //daphWiggle
