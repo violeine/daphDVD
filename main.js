@@ -1,4 +1,5 @@
 const daphO = [
+  "https://cdn.betterttv.net/emote/62a22c5b6ef7a5f0b7dec060/3x", //daphWOM
   "https://cdn.betterttv.net/emote/626273c83c6f14b68845ef42/3x", //GIGADAPH
   "https://cdn.betterttv.net/emote/6208b1b206fd6a9f5be45d79/3x", //daphSteer
   "https://cdn.betterttv.net/emote/6213657506fd6a9f5be52a92/3x", //daphDice
@@ -43,10 +44,6 @@ const daphO = [
   "https://cdn.betterttv.net/emote/6013ad3282cf6865d55346b5/3x", //GAMBA
   "https://cdn.betterttv.net/emote/6020f97780e56d02a5cb4fd6/3x", //daphM
   "https://cdn.betterttv.net/emote/602f8be5a94aaa6e662d8231/3x", //daphQuad
-  "https://cdn.betterttv.net/emote/603084fba94aaa6e662d897d/3x", //daphTurret
-  "https://cdn.betterttv.net/emote/60308427a94aaa6e662d8976/3x", //daphEngie
-  "https://cdn.betterttv.net/emote/603895d57c74605395f3485d/3x", //daphLeak
-  "https://cdn.betterttv.net/emote/6038961b7c74605395f3485f/3x", //daphLeaking
   "https://cdn.betterttv.net/emote/603a2fec7c74605395f353d1/3x", //daphPop
   "https://cdn.betterttv.net/emote/603b00f47c74605395f35ab8/3x", //daphJRas
   "https://cdn.betterttv.net/emote/60547c32306b602acc59fc8b/3x", //daphThief
