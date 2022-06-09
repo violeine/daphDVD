@@ -58,7 +58,7 @@ const daphO = [
   "https://static-cdn.jtvnw.net/emoticons/v1/306762267/3.0", //daphStealth
   "https://cdn.betterttv.net/emote/6062b5c6a407570b72f27bcd/3x", //daphItaly
   "https://cdn.betterttv.net/emote/6062b5d6a407570b72f27bcf/3x", //daphShh
-  "https://cdn.betterttv.net/emote/6081ab4a39b5010444d04317/3x", // DUSSERS
+  "https://cdn.betterttv.net/emote/60cfa2fc8ed8b373e4216f52/3x", // DUSSERS
   "https://cdn.betterttv.net/emote/6082772039b5010444d04993/3x", //daphFlower
   "https://cdn.betterttv.net/emote/608e93d039b5010444d0a354/3x", //daphNun
   "https://cdn.betterttv.net/emote/6092f2a339b5010444d0c391/3x", //daphCD
