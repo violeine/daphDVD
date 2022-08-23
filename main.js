@@ -1,4 +1,7 @@
 const daphO = [
+  "https://cdn.betterttv.net/emote/62ee05eeecbd418154238087/3x", //daphSing
+  "https://cdn.betterttv.net/emote/62ec4ebcecbd41815423698b/3x", //wokege
+  "https://cdn.betterttv.net/emote/62ec4e9decbd418154236986/3x", //bedge
   "https://cdn.betterttv.net/emote/62a22c5b6ef7a5f0b7dec060/3x", //daphWOM
   "https://cdn.betterttv.net/emote/626273c83c6f14b68845ef42/3x", //GIGADAPH
   "https://cdn.betterttv.net/emote/6208b1b206fd6a9f5be45d79/3x", //daphSteer
