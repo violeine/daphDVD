@@ -379,8 +379,10 @@ let Channel = {
 		dvd({
 			speed: 100 * urlParameters.speed.value,
 			bumpEdge: function () {
-				const emoteUrl = Channel.info.emotes[Math.floor(Math.random() * Channel.info.emotes.length)];
-				document.querySelector(".daphO").src = emoteUrl;
+				if(Channel.info.emotes.length > 0) {
+					const emoteUrl = Channel.info.emotes[Math.floor(Math.random() * Channel.info.emotes.length)];
+					document.querySelector(".daphO").src = emoteUrl;
+				}
 			},
 		});
 	},
