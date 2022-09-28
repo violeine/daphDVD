@@ -543,8 +543,7 @@ onReady(() => {
 
 	if(searchParameters.has("speed")) {
 		urlParameters.speed.userProvided = true;
-		urlParameters.speed.value = parseInt(searchParameters.get("speed"), 10);
-		console.log(urlParameters.speed.value);
+		urlParameters.speed.value = parseFloat(searchParameters.get("speed"));
 	}
 
 	if(searchParameters.has("ffzEmotes")) {
