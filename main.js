@@ -1,5 +1,12 @@
 const daphO = [
+  "https://cdn.betterttv.net/emote/63551661ed98a03da0cd8809/3x", //daphBand
+  "https://cdn.betterttv.net/emote/62dfc0abd991a3e26c135163/3x", //daphFarm
+  "https://cdn.betterttv.net/emote/635bf5bfed98a03da0ce150e/3x", //daphBirth
+  "https://cdn.betterttv.net/emote/61d83a7306fd6a9f5bdfbaca/3x", //daphLess
+  "https://cdn.betterttv.net/emote/635a04a8ed98a03da0cdf098/3x", //daphOBirth
   "https://cdn.betterttv.net/emote/62ee05eeecbd418154238087/3x", //daphSing
+  "https://cdn.betterttv.net/emote/6058764fdfaae06e7d60c4a2/3x", //daphSteer
+  "https://cdn.betterttv.net/emote/607d621739b5010444d022a9/3x", //daphZoo
   "https://cdn.betterttv.net/emote/62ec4ebcecbd41815423698b/3x", //wokege
   "https://cdn.betterttv.net/emote/62ec4e9decbd418154236986/3x", //bedge
   "https://cdn.betterttv.net/emote/62a22c5b6ef7a5f0b7dec060/3x", //daphWOM
