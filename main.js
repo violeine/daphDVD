@@ -1,4 +1,8 @@
 const daphO = [
+  "https://cdn.betterttv.net/emote/63d444f2adb5e3c9656e65f1/3x", //daphWise
+  "https://cdn.betterttv.net/emote/63c2b621f16b4a91323fe623/3x", //Devserved
+  "https://cdn.betterttv.net/emote/63af54fad3c04b5c45120d24/3x", //daphYoga
+  "https://cdn.betterttv.net/emote/63ac10cf91ab7f35abe0a1c7/3x", //daphLondon
   "https://cdn.betterttv.net/emote/63551661ed98a03da0cd8809/3x", //daphBand
   "https://cdn.betterttv.net/emote/62dfc0abd991a3e26c135163/3x", //daphFarm
   "https://cdn.betterttv.net/emote/635bf5bfed98a03da0ce150e/3x", //daphBirth
