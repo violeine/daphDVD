@@ -1,4 +1,4 @@
-let channelName = "39daph";
+let channelName = "HAchubby";
 let DEBUG = false;
 
 const MAX_INT = 2147483647;
