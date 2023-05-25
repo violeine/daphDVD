@@ -1,7 +1,8 @@
 let channelName = "HAchubby";
 let DEBUG = false;
 
-const proxy = "https://api.allorigins.win/raw?url=";
+// "https://corsproxy.io/?url=https://twitch-tools.rootonline.de/emotes.php?channel=hachubby";
+const proxy = "https://corsproxy.io/?";
 
 const urlParameters = {
 	debug: {
@@ -60,7 +61,7 @@ let Channel = {
 			return;
 		}
 
-		const htmlString = await getHtml(`https://twitch-tools.rootonline.de/emotes.php?channel=${Channel.info.name}`);
+		const htmlString = await getHtml(encodeURIComponent(`https://twitch-tools.rootonline.de/emotes.php?channel_id=${Channel.info.id}`));
 		
 		const domParser = new DOMParser();
 		const html = domParser.parseFromString(htmlString, 'text/html');
