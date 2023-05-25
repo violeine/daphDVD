@@ -1,10 +1,9 @@
 let channelName = "39daph";
 let DEBUG = false;
 
-const MAX_INT = 2147483647;
 const proxy = "https://api.allorigins.win/raw?url=";
 
-let urlParameters = {
+const urlParameters = {
 	debug: {
 		value: false,
 		userProvided: false
@@ -51,7 +50,7 @@ let Channel = {
 	info: {
 		id: 0,
 		name: null,
-		emotes: [],
+		emotes: []
 	},
 
 	loadChannelEmotes: async function() {
@@ -84,14 +83,6 @@ let Channel = {
 		const emoteCardsArray = emotesHtml.getElementsByClassName("card-body");
 
 		for (const emoteCard of emoteCardsArray) {
-			const emoteNameArray = emoteCard.getElementsByClassName("mt-2 text-center");
-			
-			let emoteName = emoteNameArray.length == 0 ? "followerEmote" + Math.floor(Math.random() * MAX_INT) : emoteNameArray[0].textContent;
-
-			if(urlParameters.blacklist.value.includes(emoteName)) {
-				continue;
-			}
-			
 			const imageUrlArray = emoteCard.getElementsByTagName("a"); 
 
 			if (imageUrlArray.length == 0) {
@@ -99,6 +90,15 @@ let Channel = {
 			}
 
 			const imageUrl = imageUrlArray[0].href.replace("light","dark");
+			const emoteID = imageUrl.split('/')[5];
+
+			const emoteNameArray = emoteCard.getElementsByClassName("mt-2 text-center");
+			
+			let emoteName = emoteNameArray.length == 0 ? emoteID : emoteNameArray[0].textContent;
+
+			if(urlParameters.blacklist.value.includes(emoteName)) {
+				continue;
+			}
 
 			Channel.info.emotes.push(imageUrl);
 
@@ -239,11 +239,10 @@ let Channel = {
 	loadEmotes: async function() {
 		Channel.info.emotes = [];
 
-		await Channel.loadChannelEmotes();
 		await Channel.loadFfzEmotes();
 		await Channel.loadBttvEmotes();
 		await Channel.load7tvEmotes();
-
+		await Channel.loadChannelEmotes();
 		
 		DEBUG && console.log("Loading emotes: done!");
 	},
@@ -413,7 +412,7 @@ function dvd(option) {
 	}
 }
 
-onReady(() => { 
+function getParameters() {
 	searchParameters = new URLSearchParams(window.location.search);
 	
 	if(searchParameters.has("channel")) {
@@ -470,7 +469,10 @@ onReady(() => {
 		urlParameters.blacklist.userProvided = true;
 		urlParameters.blacklist.value = searchParameters.get("blacklist").split(/[,;|\s]/).filter(i => i);
 	}
+}
 
+onReady(() => { 
+	getParameters();
 	Channel.init(channelName);
 });
 
