@@ -25,22 +25,6 @@
 		<img alt="Maintenance" src="https://custom-icon-badges.demolab.com/maintenance/yes/2023?logo=tools" />
 	</a>
 	<br>
-	<a href="https://github.com/greencomfytea/dvd-overlay/commits/main">
-		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/dvd-overlay?logo=git-commit" />
-	</a>
-	<a href="https://github.com/greencomfytea/dvd-overlay/commits/main">
-		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/dvd-overlay?logo=git-commit" />
-	</a>
-	<br>
-	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/commit-activity">
-		<img alt="Commit Activity (Year)" src="https://custom-icon-badges.demolab.com/github/commit-activity/y/greencomfytea/dvd-overlay?logo=pulse" />
-	</a>
-	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/commit-activity">
-		<img alt="Commit Activity (Month)" src="https://custom-icon-badges.demolab.com/github/commit-activity/m/greencomfytea/dvd-overlay?logo=pulse" />
-	</a>
-	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/commit-activity">
-		<img alt="Commit Activity (Week)" src="https://custom-icon-badges.demolab.com/github/commit-activity/w/greencomfytea/dvd-overlay?logo=pulse" />
-	</a>
 	<br>
 	<a href="">
 		<img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/greencomfytea/dvd-overlay?logo=database" />
@@ -63,6 +47,24 @@
 	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/traffic">
 		<img alt="Hits" src="https://custom-icon-badges.demolab.com/endpoint?url=https://hits.dwyl.com/greencomfytea/dvd-overlay.json?color=blue&logo=eye" />
 	</a>
+	<br>
+	<a href="https://github.com/greencomfytea/dvd-overlay/commits/main">
+		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/dvd-overlay?logo=git-commit" />
+	</a>
+	<a href="https://github.com/greencomfytea/dvd-overlay/commits/main">
+		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/dvd-overlay?logo=git-commit" />
+	</a>
+	<br>
+	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/commit-activity">
+		<img alt="Commit Activity (Year)" src="https://custom-icon-badges.demolab.com/github/commit-activity/y/greencomfytea/dvd-overlay?logo=pulse" />
+	</a>
+	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/commit-activity">
+		<img alt="Commit Activity (Month)" src="https://custom-icon-badges.demolab.com/github/commit-activity/m/greencomfytea/dvd-overlay?logo=pulse" />
+	</a>
+	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/commit-activity">
+		<img alt="Commit Activity (Week)" src="https://custom-icon-badges.demolab.com/github/commit-activity/w/greencomfytea/dvd-overlay?logo=pulse" />
+	</a>
+	<br>
 	<br>
 	<a href="https://greencomfytea.github.io/dvd-overlay/">
 		<img alt="Website" src="https://custom-icon-badges.demolab.com/website?down_color=red&down_message=down&up_color=brightgreen&up_message=up&logo=link&url=https://greencomfytea.github.io/dvd-overlay" />
