@@ -91,7 +91,7 @@
 	</a>
 </p>
 
-# Supported Emotes:
+## Supported Emotes:
 1. `Channel Sub/Follower Emotes`
 2. `FFZ Channel Emotes`
 3. `BTTV Channel Emotes`
@@ -100,11 +100,11 @@
 6. `BTTV Global Emotes`
 7. `7TV Global Emotes`
 
-# Links
+## Links
 * **[https://violeine.github.io/daphDVD/](https://violeine.github.io/daphDVD/)**
 * **[https://greencomfytea.github.io/dvd-overlay/](https://greencomfytea.github.io/dvd-overlay/)**
 
-# URL Parameters
+## URL Parameters
 1. **channel** `Optional` `Type: string` `Default: 39daph` - Specifies the Twitch Channel;
 2. **debug** `Optional` `Type: boolean` `Default: false` - Prints Extra Info into the Console;
 3. **speed** `Optional` `Type: float` `Default: 3` - Sets the Speed of the Animation;
@@ -124,6 +124,6 @@
 </details>
 
 
-# Credits
+## Credits
 + **violeine** - Original Creator of the DVD Overlay;
 + **GreenComfyTea** - Added Emotes Autofetching.   
