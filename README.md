@@ -17,21 +17,21 @@
 	<a href="https://github.com/greencomfytea/dvd-overlay/pulls">
 		<img alt="Pull Requests Closed" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/greencomfytea/dvd-overlay?logo=git-pull-request-closed" />
 	</a>
-<br>
+	<br>
 	<a href="https://github.com/greencomfytea/dvd-overlay/blob/main/LICENSE">
 		<img alt="License" src="https://custom-icon-badges.demolab.com/github/license/greencomfytea/dvd-overlay?logo=law" />
 	</a>
 	<a href="">
 		<img alt="Maintenance" src="https://custom-icon-badges.demolab.com/maintenance/yes/2023?logo=tools" />
 	</a>
-<br>
+	<br>
 	<a href="https://github.com/greencomfytea/dvd-overlay/commits/main">
 		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/dvd-overlay?logo=git-commit" />
 	</a>
-<a href="https://github.com/greencomfytea/dvd-overlay/commits/main">
+	<a href="https://github.com/greencomfytea/dvd-overlay/commits/main">
 		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/dvd-overlay?logo=git-commit" />
 	</a>
-<br>
+	<br>
 	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/commit-activity">
 		<img alt="Commit Activity (Year)" src="https://custom-icon-badges.demolab.com/github/commit-activity/y/greencomfytea/dvd-overlay?logo=pulse" />
 	</a>
@@ -41,7 +41,7 @@
 	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/commit-activity">
 		<img alt="Commit Activity (Week)" src="https://custom-icon-badges.demolab.com/github/commit-activity/w/greencomfytea/dvd-overlay?logo=pulse" />
 	</a>
-<br>
+	<br>
 	<a href="">
 		<img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/greencomfytea/dvd-overlay?logo=database" />
 	</a>
@@ -63,7 +63,7 @@
 	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/traffic">
 		<img alt="Hits" src="https://custom-icon-badges.demolab.com/endpoint?url=https://hits.dwyl.com/greencomfytea/dvd-overlay.json?color=blue&logo=eye" />
 	</a>
-<br>
+	<br>
 	<a href="https://greencomfytea.github.io/dvd-overlay/">
 		<img alt="Website" src="https://custom-icon-badges.demolab.com/website?down_color=red&down_message=down&up_color=brightgreen&up_message=up&logo=link&url=https://greencomfytea.github.io/dvd-overlay" />
 	</a>
@@ -76,11 +76,11 @@
 	<a href="https://www.twitch.tv/greencomfytea">
 		<img alt="Twitch" src="https://img.shields.io/twitch/status/greencomfytea?logo=twitch" />
 	</a>
-<br>
+	<br>
 	<a href="https://github.com/violeine">
 		<img alt="Author" src="https://custom-icon-badges.demolab.com/badge/author-violeine-blue?logo=person" />
 	</a>
-  <a href="https://github.com/greencomfytea">
+  	<a href="https://github.com/greencomfytea">
 		<img alt="Author" src="https://custom-icon-badges.demolab.com/badge/contributor-GreenComfyTea-green?logo=person" />
 	</a>
 	<a href="https://github.com/topics/open-source">
