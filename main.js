@@ -248,6 +248,7 @@ let Channel = {
 
 			DEBUG && console.log(`[BTTV/FFZ${globalString}] Done!`);
 		}
+	},
 
 	loadBttvEmotes: async function() {
 		DEBUG && console.log("[BTTV] Loading emotes...");
@@ -295,6 +296,7 @@ let Channel = {
 
 			DEBUG && console.log(`[BTTV${globalString}] Done!`);
 		}
+	},
 
 	load7tvEmotes: async function() {
 		DEBUG && console.log("[7TV] Loading emotes...");
@@ -335,7 +337,8 @@ let Channel = {
 
 			DEBUG && console.log(`[7TV${globalString}] Done!`);
 		}
-
+	},
+	
 	load: async function() {
 		Channel.info.emotes = [];
 
