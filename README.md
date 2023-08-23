@@ -2,24 +2,24 @@
 	<h2 align="center"><b>Twitch Emote DVD Overlay by <a href="https://github.com/violeine">@violeine</a></b></h2>
 </p>
 <p align="center">
-	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/contributors">
-		<img alt="Contributors" src="https://custom-icon-badges.demolab.com/github/contributors/greencomfytea/dvd-overlay?logo=person-add" />
+	<a href="https://github.com/violeine/daphDVD/graphs/contributors">
+		<img alt="Contributors" src="https://custom-icon-badges.demolab.com/github/contributors/violeine/daphDVD?logo=person-add" />
 	</a>
-	<a href="https://github.com/greencomfytea/dvd-overlay/issues">
-		<img alt="Issues" src="https://custom-icon-badges.demolab.com/github/issues/greencomfytea/dvd-overlay?logo=issue-opened" />
+	<a href="https://github.com/violeine/daphDVD/issues">
+		<img alt="Issues" src="https://custom-icon-badges.demolab.com/github/issues/violeine/daphDVD?logo=issue-opened" />
 	</a>
-	<a href="https://github.com/greencomfytea/dvd-overlay/issues">
-		<img alt="Issues Closed" src="https://custom-icon-badges.demolab.com/github/issues-closed/greencomfytea/dvd-overlay?logo=issue-closed" />
+	<a href="https://github.com/violeine/daphDVD/issues">
+		<img alt="Issues Closed" src="https://custom-icon-badges.demolab.com/github/issues-closed/violeine/daphDVD?logo=issue-closed" />
 	</a>
-	<a href="https://github.com/greencomfytea/dvd-overlay/pulls">
-		<img alt="Pull Requests" src="https://custom-icon-badges.demolab.com/github/issues-pr/greencomfytea/dvd-overlay?logo=git-pull-request" />
+	<a href="https://github.com/violeine/daphDVD/pulls">
+		<img alt="Pull Requests" src="https://custom-icon-badges.demolab.com/github/issues-pr/violeine/daphDVD?logo=git-pull-request" />
 	</a>
-	<a href="https://github.com/greencomfytea/dvd-overlay/pulls">
-		<img alt="Pull Requests Closed" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/greencomfytea/dvd-overlay?logo=git-pull-request-closed" />
+	<a href="https://github.com/violeine/daphDVD/pulls">
+		<img alt="Pull Requests Closed" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/violeine/daphDVD?logo=git-pull-request-closed" />
 	</a>
 	<br>
-	<a href="https://github.com/greencomfytea/dvd-overlay/blob/main/LICENSE">
-		<img alt="License" src="https://custom-icon-badges.demolab.com/github/license/greencomfytea/dvd-overlay?logo=law" />
+	<a href="https://github.com/violeine/daphDVD/blob/main/LICENSE">
+		<img alt="License" src="https://custom-icon-badges.demolab.com/github/license/violeine/daphDVD?logo=law" />
 	</a>
 	<a href="">
 		<img alt="Maintenance" src="https://custom-icon-badges.demolab.com/maintenance/yes/2023?logo=tools" />
@@ -27,56 +27,47 @@
 	<br>
 	<br>
 	<a href="">
-		<img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/greencomfytea/dvd-overlay?logo=database" />
+		<img alt="Repo Size" src="https://custom-icon-badges.demolab.com/github/repo-size/violeine/daphDVD?logo=database" />
 	</a>
 	<a href="">
-		<img alt="Goto Counter" src="https://custom-icon-badges.demolab.com/github/search/greencomfytea/dvd-overlay/goto?logo=git-compare" />
+		<img alt="Goto Counter" src="https://custom-icon-badges.demolab.com/github/search/violeine/daphDVD/goto?logo=git-compare" />
 	</a>
-	<a href="https://github.com/sponsors/greencomfytea">
-		<img alt="Sponsors" src="https://custom-icon-badges.demolab.com/github/sponsors/greencomfytea?logo=heart" />
+	<a href="https://github.com/violeine/daphDVD/watchers">
+		<img alt="Watchers" src="https://custom-icon-badges.demolab.com/github/watchers/violeine/daphDVD?logo=eye" />
 	</a>
-	<a href="https://github.com/GreenComfyTea/dvd-overlay/watchers">
-		<img alt="Watchers" src="https://custom-icon-badges.demolab.com/github/watchers/greencomfytea/dvd-overlay?logo=eye" />
+	<a href="https://github.com/violeine/daphDVD/forks">
+		<img alt="Forks" src="https://custom-icon-badges.demolab.com/github/forks/violeine/daphDVD?logo=repo-forked" />
 	</a>
-	<a href="https://github.com/greencomfytea/dvd-overlay/forks">
-		<img alt="Forks" src="https://custom-icon-badges.demolab.com/github/forks/greencomfytea/dvd-overlay?logo=repo-forked" />
+	<a href="https://github.com/violeine/daphDVD/stargazers">
+		<img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/violeine/daphDVD?logo=star" />
 	</a>
-	<a href="https://github.com/greencomfytea/dvd-overlay/stargazers">
-		<img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/greencomfytea/dvd-overlay?logo=star" />
-	</a>
-	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/traffic">
-		<img alt="Hits" src="https://custom-icon-badges.demolab.com/endpoint?url=https://hits.dwyl.com/greencomfytea/dvd-overlay.json?color=blue&logo=eye" />
+	<a href="https://github.com/violeine/daphDVD/graphs/traffic">
+		<img alt="Hits" src="https://custom-icon-badges.demolab.com/endpoint?url=https://hits.dwyl.com/violeine/daphDVD.json?color=blue&logo=eye" />
 	</a>
 	<br>
-	<a href="https://github.com/greencomfytea/dvd-overlay/commits/main">
-		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/greencomfytea/dvd-overlay?logo=git-commit" />
+	<a href="https://github.com/violeine/daphDVD/commits/main">
+		<img alt="Last Commit" src="https://custom-icon-badges.demolab.com/github/last-commit/violeine/daphDVD?logo=git-commit" />
 	</a>
-	<a href="https://github.com/greencomfytea/dvd-overlay/commits/main">
-		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/greencomfytea/dvd-overlay?logo=git-commit" />
+	<a href="https://github.com/violeine/daphDVD/commits/main">
+		<img alt="Commits" src="https://custom-icon-badges.demolab.com/github/commit-activity/t/violeine/daphDVD?logo=git-commit" />
 	</a>
 	<br>
-	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/commit-activity">
-		<img alt="Commit Activity (Year)" src="https://custom-icon-badges.demolab.com/github/commit-activity/y/greencomfytea/dvd-overlay?logo=pulse" />
+	<a href="https://github.com/violeine/daphDVD/graphs/commit-activity">
+		<img alt="Commit Activity (Year)" src="https://custom-icon-badges.demolab.com/github/commit-activity/y/violeine/daphDVD?logo=pulse" />
 	</a>
-	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/commit-activity">
-		<img alt="Commit Activity (Month)" src="https://custom-icon-badges.demolab.com/github/commit-activity/m/greencomfytea/dvd-overlay?logo=pulse" />
+	<a href="https://github.com/violeine/daphDVD/graphs/commit-activity">
+		<img alt="Commit Activity (Month)" src="https://custom-icon-badges.demolab.com/github/commit-activity/m/violeine/daphDVD?logo=pulse" />
 	</a>
-	<a href="https://github.com/greencomfytea/dvd-overlay/graphs/commit-activity">
-		<img alt="Commit Activity (Week)" src="https://custom-icon-badges.demolab.com/github/commit-activity/w/greencomfytea/dvd-overlay?logo=pulse" />
+	<a href="https://github.com/violeine/daphDVD/graphs/commit-activity">
+		<img alt="Commit Activity (Week)" src="https://custom-icon-badges.demolab.com/github/commit-activity/w/violeine/daphDVD?logo=pulse" />
 	</a>
 	<br>
 	<br>
-	<a href="https://greencomfytea.github.io/dvd-overlay/">
-		<img alt="Website" src="https://custom-icon-badges.demolab.com/website?down_color=red&down_message=down&up_color=brightgreen&up_message=up&logo=link&url=https://greencomfytea.github.io/dvd-overlay" />
+	<a href="https://violeine.github.io/daphDVD/">
+		<img alt="Website" src="https://custom-icon-badges.demolab.com/website?down_color=red&down_message=down&up_color=brightgreen&up_message=up&logo=link&url=https://violeine.github.io/daphDVD" />
 	</a>
-	<a href="https://github.com/greencomfytea?tab=followers">
-		<img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/greencomfytea?logo=people" />
-	</a>
-	<a href="https://twitter.com/greencomfytea">
-		<img alt="Twitter" src="https://img.shields.io/twitter/follow/greencomfytea?logo=twitter" />
-	</a>
-	<a href="https://www.twitch.tv/greencomfytea">
-		<img alt="Twitch" src="https://img.shields.io/twitch/status/greencomfytea?logo=twitch" />
+	<a href="https://github.com/violeine?tab=followers">
+		<img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/violeine?logo=people" />
 	</a>
 	<br>
 	<a href="https://github.com/violeine">
