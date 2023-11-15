@@ -1,4 +1,5 @@
 const daphO = [
+  "https://cdn.betterttv.net/emote/6440db87415460a8ccb61b91/3x", //39bald
   "https://cdn.betterttv.net/emote/64b7346d99be8d7f9cdbf4a5/3x", //daphBuck
   "https://cdn.betterttv.net/emote/6217a72a06fd6a9f5be57998/3x", //daphOui
   "https://cdn.betterttv.net/emote/63d444f2adb5e3c9656e65f1/3x", //daphWise
@@ -40,17 +41,17 @@ const daphO = [
   "https://cdn.betterttv.net/emote/60e712208ed8b373e421f86e/3x", //daphPS1
   "https://cdn.betterttv.net/emote/60c9a24ef8b3f62601c3e876/3x", //daphSus
   "https://cdn.betterttv.net/emote/60bed67ff8b3f62601c3a7c8/3x", //daphFire
-  "https://static-cdn.jtvnw.net/emoticons/v1/302071866/3.0", //daphBlind
-  "https://static-cdn.jtvnw.net/emoticons/v1/304381627/3.0", //daphLurk
-  "https://static-cdn.jtvnw.net/emoticons/v1/301171649/3.0", //daphO
-  "https://static-cdn.jtvnw.net/emoticons/v1/302385634/3.0", //daphOU
-  "https://static-cdn.jtvnw.net/emoticons/v1/304029245/3.0", //daphSlep
-  "https://static-cdn.jtvnw.net/emoticons/v1/302419165/3.0", //daphSnot
-  "https://static-cdn.jtvnw.net/emoticons/v1/304381619/3.0", //daphKnife
+  "https://static-cdn.jtvnw.net/emoticons/v1/302071866/3.0",     //daphBlind
+  "https://static-cdn.jtvnw.net/emoticons/v1/304381627/3.0",     //daphLurk
+  "https://static-cdn.jtvnw.net/emoticons/v1/301171649/3.0",     //daphO
+  "https://static-cdn.jtvnw.net/emoticons/v1/302385634/3.0",     //daphOU
+  "https://static-cdn.jtvnw.net/emoticons/v1/304029245/3.0",     //daphSlep
+  "https://static-cdn.jtvnw.net/emoticons/v1/302419165/3.0",     //daphSnot
+  "https://static-cdn.jtvnw.net/emoticons/v1/304381619/3.0",     //daphKnife
   "https://cdn.betterttv.net/emote/5f9f6bdf58e96102e92a8717/3x", //daphArrive,
   "https://cdn.betterttv.net/emote/5f84ec13ce8bc74a9424ee64/3x", //daphBed
   "https://cdn.betterttv.net/emote/5fc8af588c4e2c46195cd222/3x", //dankDaph
-  "https://static-cdn.jtvnw.net/emoticons/v1/304739284/3.0", //daphPray
+  "https://static-cdn.jtvnw.net/emoticons/v1/304739284/3.0",     //daphPray
   "https://cdn.betterttv.net/emote/5fec0b0f9d7d952e4059c699/3x", //daphPoot
   "https://cdn.betterttv.net/emote/5ff304d2db5f420491823ab1/3x", //daphSun
   "https://cdn.betterttv.net/emote/5ff304d2db5f420491823ab1/3x", //daphHug
