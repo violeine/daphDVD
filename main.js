@@ -282,16 +282,11 @@ let Channel = {
 					return;
 				}
 
-				if(urlParameters.bttvEmotes.value) {
-					if(!isGlobal) {
-						Channel.info.emotes.push(`https://cdn.betterttv.net/emote/${emote.id}/3x`);
-					}
-				}
-				else if(urlParameters.globalBttvEmotes.value) {
-					if(isGlobal) {
-						Channel.info.emotes.push(`https://cdn.betterttv.net/emote/${emote.id}/3x`);
-					}
-				}
+				const imageUrl = `https://cdn.betterttv.net/emote/${emote.id}/3x`;
+
+				Channel.info.emotes.push(imageUrl);
+
+				DEBUG && console.log(`[BTTV${globalString}] ${emote.code}: ${imageUrl}`);
 			});
 
 			DEBUG && console.log(`[BTTV${globalString}] Done!`);
