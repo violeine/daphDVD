@@ -363,16 +363,6 @@ let Channel = {
 
 		DEBUG && console.log("Loading emotes: done!");
 		DEBUG && console.log(Channel.info.emotes);
-
-		dvd({
-			speed: 100 * urlParameters.speed.value,
-			bumpEdge: function () {
-				if(Channel.info.emotes.length > 0) {
-					const emoteUrl = Channel.info.emotes[Math.floor(Math.random() * Channel.info.emotes.length)];
-					document.querySelector(".daphO").src = emoteUrl;
-				}
-			},
-		});
 	},
 
 	init: function(channelName) {
@@ -585,4 +575,14 @@ function getParameters() {
 onReady(() => { 
 	getParameters();
 	Channel.init(channelName);
+});
+
+dvd({
+	speed: 100 * urlParameters.speed.value,
+	bumpEdge: function () {
+		if(Channel.info.emotes.length > 0) {
+			const emoteUrl = Channel.info.emotes[Math.floor(Math.random() * Channel.info.emotes.length)];
+			document.querySelector(".daphO").src = emoteUrl;
+		}
+	},
 });
